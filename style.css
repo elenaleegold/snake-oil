@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+body{
+	background-color: black;
+	overflow: hidden;
+}
+
+#sketch-holder{
+	padding-left: 12%;
+	padding-top: 2%;
+}
